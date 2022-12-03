@@ -35,8 +35,9 @@
     <mvc:annotation-driven />
 
     <!--配置视图控制器-->
-    <mvc:view-controller path="/" view-name="login"></mvc:view-controller>
+    <mvc:view-controller path="/" view-name="index"></mvc:view-controller>
 
     <!--配置文件上传解析器-->
     <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver"></bean>
+
 </beans>
