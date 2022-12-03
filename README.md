@@ -1,7 +1,7 @@
 # Image-repair-web
 实现基于神经网络（Unet）进行图像去噪的web
 
-![燃尽图](https://cdn.jsdelivr.net/gh/xiaoli-guan/MyPicGo/img/%E7%87%83%E5%B0%BD%E5%9B%BE.png)
+![燃尽图](https://github.com/xiaoli-guan/MyPicGo/blob/main/img/%E7%87%83%E5%B0%BD%E5%9B%BE.png)
 
 2022/11/19
 已完成的任务
